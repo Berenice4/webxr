@@ -1,0 +1,5 @@
+{
+  "name": "Generatore di Arredamento Virtuale",
+  "description": "Un'applicazione web per agenti immobiliari che permette di caricare una foto di un immobile e modificarne l'arredamento tramite comandi testuali, generando una nuova immagine fotorealistica.",
+  "requestFramePermissions": []
+}
